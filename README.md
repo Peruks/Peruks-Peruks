@@ -1,7 +1,5 @@
 # Peruks-Peruks
 
-<img src="/mnt/data/A_banner_for_Perarivalan,_an_aspiring_AI_&_Data_Sc.png" alt="Perarivalan banner" style="max-width:100%" />
-
 # 👋 Hi, I’m Perarivalan
 
 Aspiring **AI & Data Science Engineer** from India — learning Python, machine learning, and data analysis while building practical projects and improving communication for job readiness.
