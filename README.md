@@ -1,5 +1,5 @@
 # Peruks-Peruks
-https://github.com/Peruks/Peruks/blob/main/perarivalan.png
+
 
 # 👋 Hi, I’m Perarivalan
 
