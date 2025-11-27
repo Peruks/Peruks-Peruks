@@ -30,8 +30,6 @@ Aspiring **AI & Data Science Engineer** from Chennai — learning Python, machin
 * **Mini Data Analysis Projects** — (CSV analysis, visualization notebooks)
 * **Simple ML Models** — classification/regression practice notebooks
 
-*(Links and repo names can be added and pinned below)*
-
 ---
 
 ## 🎯 Goals
