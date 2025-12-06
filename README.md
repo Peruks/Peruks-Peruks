@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### **Other Background / Experience**
+### **Other Experience**
 <p>
   <img src="https://img.shields.io/badge/Networking-0B5FFF?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-121D33?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -45,8 +45,10 @@
 
 ## 👨‍🎓 About Me
 
-- 🔭 Transitioning from long-term TNPSC preparation to **Data Science & AI**
-- 🧠 Strong base in **maths, logic, and problem-solving**
-- 📌 Currently focusing on **Python, SQL, Data Analysis, and ML fundamentals**
-- 🎯 Building small, consistent projects to strengthen practical skills
-- 🎤 Improving **communication & interview confidence** along with technical skills
+- Transitioning into **Data Science & AI**
+- Strong foundation in **maths, logic, and structured problem-solving**
+- Hands-on experience as a **Network Operations Engineer at UST Global**  
+  working in a telecom environment  
+- Exposure to the **Web3 ecosystem**, including basic validator node setup  
+- Currently focusing on **Python, SQL, and data analysis**
+- Building practical, consistent projects to strengthen real-world skills
