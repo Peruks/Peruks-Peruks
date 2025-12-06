@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Perarivalan (MrSecret)</h1>
+<h1 align="center">Hi 👋, I'm Perarivalan</h1>
 <h3 align="center">Transitioning into Data Science & AI with a strong foundation in maths and problem-solving.</h3>
 
 ---
@@ -7,8 +7,12 @@
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/perarivalanks/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://perarivalan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -30,6 +34,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
@@ -47,8 +53,7 @@
 
 - Transitioning into **Data Science & AI**
 - Strong foundation in **maths, logic, and structured problem-solving**
-- Hands-on experience as a **Network Operations Engineer at UST Global**  
-  working in a telecom environment  
-- Exposure to the **Web3 ecosystem**, including basic validator node setup  
+- Hands-on experience as a **Network Operations Engineer at UST Global**
+- Exposure to the **Web3 ecosystem**, including validator node setup
 - Currently focusing on **Python, SQL, and data analysis**
 - Building practical, consistent projects to strengthen real-world skills
